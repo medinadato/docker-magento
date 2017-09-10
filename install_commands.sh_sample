@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# BEGIN EXAMPLES OF COMMANDS
+
+#echo "Loading database..."
+#docker exec $CONTAINER_DB /bin/bash -c 'zcat /var/www/mysql/sample.sql.gz | mysql -uroot -proot_pass magento'
+
+#echo "Downloading codebase..."
+#docker exec $CONTAINER_PHP /bin/bash -c 'cd /var/www/html && git init && git remote add origin git@bitbucket.org:vendor/sample.com.au.git'
+#docker exec $CONTAINER_PHP /bin/bash -c 'cd /var/www/html && git pull origin master'
+
+#echo "Setting up project..."
+#cd $ROOT_DIR'/www/app/etc/' && ln -sf 'env.php_'$ENV env.php
+#cd $ROOT_DIR'/www/app/etc/' && cp config.php_sample config.php
+#cd $ROOT_DIR'/www/app/code/Cora/Core/etc/' && ln -sf 'config.xml_'$ENV config.xml
+
+#docker exec $CONTAINER_PHP /bin/bash -c 'cd /var/www/html && composer install -vvv'
+#docker exec $CONTAINER_PHP /bin/bash -c 'cd /var/www/html && php bin/magento setup:upgrade'
+
+# END EXAMPLES OF COMMANDS
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

@@ -1,0 +1,11 @@
+.idea
+www/
+var/*
+var/mysql/*
+!var/mysql/.placeholder
+var/nginx/*
+!var/nginx/.placeholder
+docker/root/.composer/*
+docker/nginx/*
+!docker/nginx/.placeholder
+/vendor/

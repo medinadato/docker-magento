@@ -1,8 +1,7 @@
 #!/bin/bash
 # - - - - - - - - -  - - - - - - - - - -
-# @company      Soul + Wolf
-# @author       Renato Medina <renato@soulandwolf.com.au>
-# @updatedAt    2017-07-24
+# @company      MDN Solutions
+# @author       Renato Medina <renato@mdnsolutions.com>
 # - - - - - - - - -  - - - - - - - - - -
 
 # - - - - - - - - -  - - - - - - - - - -
